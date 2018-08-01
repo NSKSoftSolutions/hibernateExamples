@@ -15,7 +15,7 @@ import com.assertions.example.pojo.Post;
  * Hello world!
  *
  */
-public class App {
+public class OneToManyAssertionExample {
 	public static void main(String[] args) {
 
 		Configuration conf = new Configuration();
