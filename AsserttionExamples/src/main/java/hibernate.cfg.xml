@@ -20,6 +20,10 @@
 		<!-- mapping files/resources -->
 		<mapping class="com.assertions.example.pojo.Comments" />
 		<mapping class="com.assertions.example.pojo.Post" />
+		<mapping class="com.assertions.example.pojo.Customer" />
+		<mapping class="com.assertions.example.pojo.Vendor" />
+		
+		
 
 	</session-factory>
 
